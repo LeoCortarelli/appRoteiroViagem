@@ -1,0 +1,8 @@
+Site do expo
+https://docs.expo.dev/
+
+    Link para CMD slider
+* npx expo install @react-native-community/slider
+
+Inicia o projeto
+npx expo start
